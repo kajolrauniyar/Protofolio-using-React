@@ -1,0 +1,44 @@
+//var React = require('react'); modern babel js  aauda kheri import use garne thahe leko 
+import React from 'react';
+//var ReactDOM = require('react-dom');
+import ReactDOM from 'react-dom';
+
+
+//const arr = ['kajol', 'komal', 'rishav']
+//ReactDOM.render('Kya dikhane hai','kha dikhan hai','callback func');
+const fname = "Kajol";
+const lname="Rauniyar";
+const currDate=new Date().toLocaleDateString();
+const currTime=new Date().toLocaleTimeString();
+const img1="https://picsum.photos/200/300";
+const links="https://www.thapatechnical.com";
+const heading={
+    color:'#fa9191',
+    textTransform:'capitalize',
+    textAlign:'center',
+    fontWeight:'bold',
+    textShadow:'0px 2px 4px #ffe9c5',
+    margin:'70px 0',
+    fontFamily:'"Josefin Sans",sans serif',
+};
+ReactDOM.render( < >
+    <h1 contentEditable="true" >  {`My first name is ${fname} and my last name is ${lname} my age is ${20+4} ` } </h1>  
+    <p> List of { 3 * 2 } Best Series </p> 
+    <p>Current Date is= {currDate}</p>
+    <p>Current time is ={currTime}</p>
+    <ol>
+    <li> 365 Days </li> 
+    <li> Addiction </li> 
+    <li> Dark </li> 
+    <li> Robort </li> 
+    <li> Holo Love </li>
+    <li>Dark Desire</li>
+    </ol>
+    <a href={links} target="_thapa"> 
+    <img src={img1} alt="Nature Photo"/>
+    </a>
+    <h2 style={heading}>My name is {fname}</h2>
+    </>,
+    document.getElementById("root")
+    
+);
