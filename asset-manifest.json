@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Protofolio-using-React/static/css/main.6e113a80.chunk.css",
+    "main.js": "/Protofolio-using-React/static/js/main.f57b7347.chunk.js",
+    "main.js.map": "/Protofolio-using-React/static/js/main.f57b7347.chunk.js.map",
+    "runtime-main.js": "/Protofolio-using-React/static/js/runtime-main.63c1cd16.js",
+    "runtime-main.js.map": "/Protofolio-using-React/static/js/runtime-main.63c1cd16.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/Protofolio-using-React/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.01e8a7e1.chunk.js": "/Protofolio-using-React/static/js/2.01e8a7e1.chunk.js",
+    "static/js/2.01e8a7e1.chunk.js.map": "/Protofolio-using-React/static/js/2.01e8a7e1.chunk.js.map",
+    "index.html": "/Protofolio-using-React/index.html",
+    "precache-manifest.64e2b76cb9e51f5a9ab41b77ec735d33.js": "/Protofolio-using-React/precache-manifest.64e2b76cb9e51f5a9ab41b77ec735d33.js",
+    "service-worker.js": "/Protofolio-using-React/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/Protofolio-using-React/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.6e113a80.chunk.css.map": "/Protofolio-using-React/static/css/main.6e113a80.chunk.css.map",
+    "static/js/2.01e8a7e1.chunk.js.LICENSE.txt": "/Protofolio-using-React/static/js/2.01e8a7e1.chunk.js.LICENSE.txt",
+    "static/media/android.jpeg": "/Protofolio-using-React/static/media/android.19a2e0ea.jpeg",
+    "static/media/app.jpeg": "/Protofolio-using-React/static/media/app.70cea92a.jpeg",
+    "static/media/digital.jpeg": "/Protofolio-using-React/static/media/digital.ac8f6f9a.jpeg",
+    "static/media/hero-img.png": "/Protofolio-using-React/static/media/hero-img.619f0cc8.png",
+    "static/media/img2.svg": "/Protofolio-using-React/static/media/img2.e981619f.svg",
+    "static/media/marketing.jpg": "/Protofolio-using-React/static/media/marketing.2eed95a2.jpg",
+    "static/media/s1.jpg": "/Protofolio-using-React/static/media/s1.1192a86d.jpg",
+    "static/media/software.jpeg": "/Protofolio-using-React/static/media/software.43049cae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63c1cd16.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.01e8a7e1.chunk.js",
+    "static/css/main.6e113a80.chunk.css",
+    "static/js/main.f57b7347.chunk.js"
+  ]
+}
